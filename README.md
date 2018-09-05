@@ -25,5 +25,5 @@ Contained in this repo is the new website for Dreamlight
 - [ ] Support
 - [ ] App
 - [x] Pro
-- [ ] Ease
-- [ ] Heat
+- [x] Ease
+- [x] Heat

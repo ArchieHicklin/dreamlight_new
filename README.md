@@ -19,7 +19,7 @@ Contained in this repo is the new website for Dreamlight
 
 - [x] Homepage
 - [x] Product Range
-- [ ] Amazon Page
+- [x] Amazon Page
 - [x] Gene Portal
 - [ ] About
 - [ ] Support

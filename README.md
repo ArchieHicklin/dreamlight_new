@@ -22,7 +22,7 @@ Contained in this repo is the new website for Dreamlight
 - [x] Amazon Page
 - [x] Gene Portal
 - [ ] About
-- [ ] Support
+- [x] Support
 - [ ] App
 - [x] Pro
 - [x] Ease

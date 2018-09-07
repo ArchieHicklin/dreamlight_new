@@ -21,9 +21,29 @@ Contained in this repo is the new website for Dreamlight
 - [x] Product Range
 - [x] Amazon Page
 - [x] Gene Portal
-- [ ] About
+- [x] About
 - [x] Support
-- [ ] App
+- [x] App
 - [x] Pro
 - [x] Ease
 - [x] Heat
+
+# Responsivity:
+
+- [ ] Homepage
+- [ ] Product Range
+- [ ] Amazon Page
+- [ ] Gene Portal
+- [ ] About
+- [ ] Support
+- [ ] App
+- [ ] Pro
+- [ ] Ease
+- [ ] Heat
+
+# Photos:
+
+# Responsive:
+
+- [x] Studio Session
+- [ ] 

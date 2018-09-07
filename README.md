@@ -43,7 +43,5 @@ Contained in this repo is the new website for Dreamlight
 
 # Photos:
 
-# Responsive:
-
 - [x] Studio Session
-- [ ] 
+- [ ] Post Production
